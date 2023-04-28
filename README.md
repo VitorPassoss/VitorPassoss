@@ -1,4 +1,4 @@
-## Oiii eu sou Vitor Passos , Desenvolvedor Web full stack
+## Oiii eu sou Vitor Passos , Desenvolvedor de Software
 <div align="center">
   <a href="https://github.com/VitorPassoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorPassoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
